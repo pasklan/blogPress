@@ -13,7 +13,7 @@ I made this project to learn NodeJS features like:
 - Middleware
 - Migrations
 - Associations
-- Pluggins
+- Pluggins like TinyMCE
 - Sequelize
 - CRUD actions
 - Sessions and cookies
